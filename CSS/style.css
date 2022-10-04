@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    text-align: center  ;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+}
+
+h1{
+    font-size: 562.5%;
+    color: #66BFBF;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Mali', cursive;
+    line-height: 2;
+}
+
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: normal;
+}
+
+h3, a{
+    color: #11999E;
+}
+
+a{
+    background-color: #66BFBF;
+    padding: 10px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+p{
+    font-family: 'Ubuntu', sans-serif;
+    color: #40514E;
+}
+
+p, h2{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.top-container{
+    background-color:#EAF6F6;
+}
+
+/* .middle-container{
+
+} */
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 10px;
+    left: 60%;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+div{
+    /* background-color: rgb(100, 100, 202); */
+    padding-top: 80px;
+}
+
+.skills{
+    display: inline;
+    position: relative;
+}
+
+.skill-row{
+    /* position: abosolute; */
+    width: 50%;
+    /* margin: auto; */
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.img1{
+    width: 25%; 
+    float: left;
+    margin: 30px;
+}
+
+/* .img1-p{
+    clear: left;
+} */
+
+.img2{
+    width: 25%; 
+    float: right;
+    margin-left: 30px;
+}
+
+/* .img2-p{
+    clear: right;
+} */
+
+hr{
+    border: dotted 10px #EAF6F6;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 100px;
+}
